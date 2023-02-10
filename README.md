@@ -1,5 +1,5 @@
 # STaSy: Score-based Tabular Data Synthesis
-This code is the official implementation of "STaSy: Score-based Tabular Data Synthesis".
+This code is the official implementation of "STaSy: Score-based Tabular Data Synthesis"(https://arxiv.org/abs/2210.04018).
 
 ## Requirements
 Run the following to install requirements:
