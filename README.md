@@ -3,7 +3,7 @@ This code is the official implementation of "STaSy: Score-based Tabular Data Syn
 
 ## Link for Tutorial: 
 
-- Google Colab Notebook Link: [Colab](https://colab.research.google.com/drive/1Cti1ZqLy2RF3_iFebYlWSK1krAyqoAH-?usp=sharing)
+- Google Colab Notebook Link: [Colab](https://colab.research.google.com/drive/1leKzdlsXnrxiJnOXzxqfGp8-iZpcBI-X?usp=sharing)
 
 ## Requirements
 Run the following to install requirements:
