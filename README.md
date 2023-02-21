@@ -1,6 +1,10 @@
 # STaSy: Score-based Tabular Data Synthesis
 This code is the official implementation of "STaSy: Score-based Tabular Data Synthesis"(https://arxiv.org/abs/2210.04018).
 
+## Link for Tutorial: 
+
+- Google Colab Notebook Link: [Colab](https://colab.research.google.com/drive/1Cti1ZqLy2RF3_iFebYlWSK1krAyqoAH-?usp=sharing)
+
 ## Requirements
 Run the following to install requirements:
 ```setup
