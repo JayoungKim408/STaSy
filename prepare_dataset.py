@@ -4,7 +4,7 @@ import os
 import json
 import numpy as np
 import pandas as pd
-from dataset_utils import CATEGORICAL, CONTINUOUS, ORDINAL, verify
+from prepare_dataset_utils import CATEGORICAL, CONTINUOUS, ORDINAL, verify
 
 
 output_dir = 'data'
