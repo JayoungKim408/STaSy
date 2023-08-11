@@ -1,0 +1,39 @@
+{
+    "columns":    [
+        {
+            "max": 7.9,
+            "min": 4.3,
+            "name": "sepal_length",
+            "type": "continuous"
+        },
+        {
+            "max": 4.4,
+            "min": 2.0,
+            "name": "sepal_width",
+            "type": "continuous"
+        },
+        {
+            "max": 6.9,
+            "min": 1.0,
+            "name": "petal_length",
+            "type": "continuous"
+        },
+        {
+            "max": 2.5,
+            "min": 0.1,
+            "name": "petal_width",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                "Iris-virginica",
+                "Iris-versicolor",
+                "Iris-setosa"
+            ],
+            "name": "label",
+            "size": 3,
+            "type": "categorical"
+        }
+    ], 
+    "problem_type": "multiclass_classification"
+}
